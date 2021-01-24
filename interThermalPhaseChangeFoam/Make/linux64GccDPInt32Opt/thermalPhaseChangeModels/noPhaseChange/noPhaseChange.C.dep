@@ -1,0 +1,8 @@
+$(OBJECTS_DIR)/thermalPhaseChangeModels/noPhaseChange/noPhaseChange.C.dep: \
+thermalPhaseChangeModels/noPhaseChange/noPhaseChange.C \
+thermalPhaseChangeModels/noPhaseChange/noPhaseChange.H \
+thermalPhaseChangeModels/thermalPhaseChangeModel/thermalPhaseChangeModel.H \
+../incompressibleTwoPhaseThermalMixture/lnInclude/twoPhaseThermalMixture.H \
+../incompressibleTwoPhaseThermalMixture/lnInclude/conductivityModel.H \
+
+#END

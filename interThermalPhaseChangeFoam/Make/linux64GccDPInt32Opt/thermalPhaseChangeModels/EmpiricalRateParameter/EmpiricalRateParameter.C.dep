@@ -1,0 +1,9 @@
+$(OBJECTS_DIR)/thermalPhaseChangeModels/EmpiricalRateParameter/EmpiricalRateParameter.C.dep: \
+thermalPhaseChangeModels/EmpiricalRateParameter/EmpiricalRateParameter.C \
+thermalPhaseChangeModels/EmpiricalRateParameter/EmpiricalRateParameter.H \
+thermalPhaseChangeModels/thermalPhaseChangeModel/thermalPhaseChangeModel.H \
+../incompressibleTwoPhaseThermalMixture/lnInclude/twoPhaseThermalMixture.H \
+../incompressibleTwoPhaseThermalMixture/lnInclude/conductivityModel.H \
+thermalPhaseChangeModels/MeshGraph/MeshGraph.H \
+
+#END

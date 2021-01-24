@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/thermalPhaseChangeModels/MeshGraph/MeshGraph.C.dep: \
+thermalPhaseChangeModels/MeshGraph/MeshGraph.C \
+thermalPhaseChangeModels/MeshGraph/MeshGraph.H \
+
+#END

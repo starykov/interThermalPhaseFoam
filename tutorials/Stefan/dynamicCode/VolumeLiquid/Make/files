@@ -1,0 +1,6 @@
+/* dynamicCode:
+ * SHA1 = 5f85d2fd7834732970420e7ec86a1f522b2910f9
+ */
+functionObjectTemplate.C
+
+LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/libVolumeLiquid_5f85d2fd7834732970420e7ec86a1f522b2910f9

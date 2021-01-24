@@ -1,0 +1,6 @@
+$(OBJECTS_DIR)/surfaceTensionForceModels/SmoothedSF/SmoothedSF.C.dep: \
+surfaceTensionForceModels/SmoothedSF/SmoothedSF.C \
+surfaceTensionForceModels/SmoothedSF/SmoothedSF.H \
+surfaceTensionForceModels/surfaceTensionForceModel/surfaceTensionForceModel.H \
+
+#END

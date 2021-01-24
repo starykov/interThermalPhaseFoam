@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/surfaceTensionForceModels/surfaceTensionForceModel/newSurfaceTensionForceModel.C.dep: \
+surfaceTensionForceModels/surfaceTensionForceModel/newSurfaceTensionForceModel.C \
+surfaceTensionForceModels/surfaceTensionForceModel/surfaceTensionForceModel.H \
+
+#END

@@ -1,0 +1,5 @@
+SOURCE = \
+dynamicKistlerAlphaContactAngle/dynamicKistlerAlphaContactAngleFvPatchScalarField.C \
+RiddersRoot/RiddersRoot.C \
+
+# sources

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "interThermalPhaseChangeFoam.C": "cpp",
+        "InterfaceEquilibrium.C": "cpp",
+        "InterfaceEquilibrium_SplitDilatation.C": "cpp",
+        "InterfaceEquilibrium_NoDilatation.C": "cpp",
+        "HiLoNoPCVAlpha1.C": "cpp",
+        "interfacialResistance.C": "cpp",
+        "EmpiricalRateParameter.C": "cpp",
+        "SST.C": "cpp",
+        "surfaceTensionForceModel.C": "cpp",
+        "thermalPhaseChangeModel.C": "cpp",
+        "newThermalPhaseChangeModel.C": "cpp"
+    }
+}

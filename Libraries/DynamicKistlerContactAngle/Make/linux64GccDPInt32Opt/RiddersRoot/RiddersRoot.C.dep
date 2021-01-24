@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/RiddersRoot/RiddersRoot.C.dep: \
+RiddersRoot/RiddersRoot.C \
+RiddersRoot/RiddersRoot.H \
+
+#END
